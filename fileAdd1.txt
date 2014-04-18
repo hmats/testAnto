@@ -4,9 +4,4 @@ HOTFIX
 HOTFIX
 HOTFIX
 HOTFIX
-<<<<<<< HEAD
-rwerewrwerweerrererrrerer
-=======
-plutooooooooooooooooooooooooooooooo
->>>>>>> refs/heads/pluto
 plutooooooooooooooooooooooooooooooo
